@@ -11,7 +11,7 @@ public class Main{
         System.out.println("Number Before swap: a = "+a+" , "+" b = "+b);
          a = a+b;
          b = a-b;
-         a= a-b;
+         a = a-b;
 
         System.out.println("Number After swap: a = "+a+" , "+" b = "+b);
 
